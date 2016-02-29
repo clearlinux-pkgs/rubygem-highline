@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-02-25 23:03:08.351340
+# {'~>1.6', '>=1.6.15'}
+watchurl=https://rubygems.org/gems/highline/versions/([0-1]\.[0-9]{1,2}(\.[0-9]{1,2})?)
