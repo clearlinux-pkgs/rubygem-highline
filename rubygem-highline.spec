@@ -4,7 +4,7 @@
 #
 Name     : rubygem-highline
 Version  : 1.7.8
-Release  : 9
+Release  : 10
 URL      : https://rubygems.org/downloads/highline-1.7.8.gem
 Source0  : https://rubygems.org/downloads/highline-1.7.8.gem
 Summary  : No detailed summary available
